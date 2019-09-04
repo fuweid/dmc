@@ -1,4 +1,4 @@
-module github.com/fuweid/dmc
+module github.com/fuweid/dmc/v2
 
 go 1.12
 
