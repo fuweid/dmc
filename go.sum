@@ -1,2 +1,2 @@
-github.com/fuweid/echo v1.0.0 h1:GfSmmTSsauTcqTP7x8p4fiV3MxhA5C2/e+vlzKsID6s=
-github.com/fuweid/echo v1.0.0/go.mod h1:yJWLgKROyTLM0kGsbDfIcEIdoOL8ZIO68+5I++JTR3Q=
+github.com/fuweid/echo v2.0.0+incompatible h1:1Kbgs5ghwaaH4nfQR/fb6oGfFt2NGZyDIensJaBNL7g=
+github.com/fuweid/echo v2.0.0+incompatible/go.mod h1:yJWLgKROyTLM0kGsbDfIcEIdoOL8ZIO68+5I++JTR3Q=
